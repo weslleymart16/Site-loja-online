@@ -93,7 +93,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url("fundo.jpg");
+    background: url("images/fundo.jpg");
     padding: 40px;
 }
 
@@ -175,7 +175,6 @@ td, th {
 
 .principal {
     padding: 3em 0;
-    background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
 }
@@ -192,15 +191,8 @@ td, th {
     font-style: italic;
 }
 
-.rolamento {
-    width: 280px;
-    float: left;
-    margin: 0 20px 20px 0;
-}
-
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE,rgba(255,117,0));
 }
 
 .mapa-conteudo {
@@ -215,7 +207,6 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: rgb(255, 117, 0);
 }
 
 .conteudo-beneficios {
