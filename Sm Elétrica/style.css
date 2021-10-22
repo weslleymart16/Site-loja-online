@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background: rgb(255, 72, 0);
+    background: rgb(248, 245, 244);
 } 
 
 .caixa {
@@ -98,7 +98,7 @@ footer {
 }
 
 .copyright {
-    color: #ffffff;
+    color: #160202;
     font-size: 13px;
     margin: 20px 0 0;
 }
@@ -161,7 +161,9 @@ td, th {
 
 /* css da página inicial */
 .banner {
-    width: 100%;
+    text-align: center;
+    background: orange;
+    padding: 20px;
 }
 
 .titulo-principal {
