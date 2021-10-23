@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(#FEFEFE,rgba(255,117,0));
+    background: linear-gradient(#FEFEFE,rgb(146, 140, 135));
 }
 
 header {
@@ -13,19 +13,15 @@ header {
     margin: 0 auto;
 }
 
-.caixa img {
-    margin-bottom: -5px;
-}
-
 .formulario {
     width: 940px;
     margin: 0 auto;
 }
 
 nav {
-    position: absolute;
+    /*position: absolute;
     top: 110px;
-    right: 0;
+    right: 0;*/
 
 }
 
@@ -164,6 +160,10 @@ td, th {
     text-align: center;
     background: orange;
     padding: 20px;
+}
+
+section ul li + li {
+    margin-left: 24px;
 }
 
 .titulo-principal {
