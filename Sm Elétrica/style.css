@@ -8,9 +8,12 @@ header {
 } 
 
 .caixa {
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    justify-content: center;
     position: relative;
-    width: 940px;
-    margin: 0 auto;
 }
 
 .formulario {
@@ -156,7 +159,7 @@ td, th {
 }
 
 /* css da página inicial */
-.banner {
+.links {
     text-align: center;
     background: orange;
     padding: 20px;
